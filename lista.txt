@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,MultiAudio 487a
-df98650743f24a245c44cdf2851e57078f4c487a
+acestream://df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,MultiAudio dc3a
-fee5612d57824b6e8db780f210ec54093056dc3a
+acestream://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,MultiAudio 5c1c
-43f8d231888b6d87a85cc1a8d8b6b344ca365c1c
+acestream://43f8d231888b6d87a85cc1a8d8b6b344ca365c1c
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,720 dbce
-c35d2207792128fc0ae49c40e885c463f664dbce
+acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,287dd
-87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,MultiAudio 24175
-167e3b44a520cd76d4372f6d30fe6d7ccd524175
+acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,MultiAudio ca29e
-684e5c085484e8ea79858713eeb7a3668baca29e
+acestream://684e5c085484e8ea79858713eeb7a3668baca29e
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,1080 3888
-c22bfcc2a70b2a3f447d9b30c52e617946b03888
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,720 346a
-df139bbcd7ae6825b46d5955c52d639f1215346a
+acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,MultiAudio c1e76
-aedf221240a0f8513d90b555bf1b6e5306ac1e76
+acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,MultiAudio 1c01b
-539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
+acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,1080 e9b6
-3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
+acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LC2 4c28
-9b76d0739f87555ccd3f42fc8e548762a0b94c28
+acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,LC2 bb13
-b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
+acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13
 #EXTINF:-1 group-title="MANUKOS" tvg-id="MANUKOS" ,d1f9a
-b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
+acestream://b50b55c657ffc05414d1341d9e0c1b7f941d1f9a
 #EXTINF:-1 group-title="MANUKOS" tvg-id="MANUKOS" ,c9cf6
-6f29350d83ab43eccebaecb6cf2daa887aec9cf6
+acestream://6f29350d83ab43eccebaecb6cf2daa887aec9cf6
 #EXTINF:-1 group-title="MANUKOS" tvg-id="MANUKOS" ,Champions c56fa
-5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
+acestream://5c19b80926aa6dd5ff6ff2ba086bf6caa39c56fa
 #EXTINF:-1 group-title="MANUKOS" tvg-id="MANUKOS" ,Champions 2d05
-172a0843a8f136659ab139af2d247bcfac602d05
+acestream://172a0843a8f136659ab139af2d247bcfac602d05
 
 
